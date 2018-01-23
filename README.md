@@ -1,2 +1,3 @@
 # ECM
-ECM(ElectroChemical Musician) Composes 'Music'
+ECM(ElectroChemical Musician) Composes 'Music'  
+Well it's actually an electrochemical noise player...
