@@ -1,0 +1,3 @@
+[submodule "thinkdsp"]
+	path = thinkdsp
+	url = https://github.com/AllenDowney/ThinkDSP
