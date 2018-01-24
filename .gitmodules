@@ -1,3 +1,6 @@
 [submodule "thinkdsp"]
 	path = thinkdsp
 	url = https://github.com/AllenDowney/ThinkDSP
+[submodule "ENML"]
+	path = ENML
+	url = https://github.com/wsyxbcl/ENML
